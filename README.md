@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello! My name is Kaiky AKA umbra.
+### Introduction 👋
+## "I am writing this under an appreciable mental strain, since by tonight I shall be no more."
 
 <!--
 **KekDisk/KekDisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
