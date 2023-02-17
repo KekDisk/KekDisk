@@ -10,6 +10,7 @@
       <div class="post-info">
 <div align="center">
 <img src="https://64.media.tumblr.com/be6203d97396f0c4fa87dd6b64e97cf4/094b79cb332f07bd-78/s400x600/8dcb057eccd4366a2c39e87996704a293ed3675c.gifv" align="right">
+        </div>
         <p>
           ☸️ Defesa Cibernética - FIAP <br>
           ☯ 19y </br>
