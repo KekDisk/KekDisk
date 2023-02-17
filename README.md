@@ -6,29 +6,20 @@
   <main>
     <article>
       <div class="post-info">
-        <textarea>
-          <p>
-            ☯ Defesa Cibernética - FIAP <br> 
-            🪷 19y </br>
-            ☸️ C Language, Logic, Linux, AI </br>
-            ☦️ Metaphysics, Latin, Philosophy, Art </br>
-    </p>
-  </textarea>
+        <p>
+          ☯ Defesa Cibernética - FIAP <br> 
+          🪷 19y </br>
+          ☸️ C Language, Logic, Linux, AI </br>
+          ☦️ Metaphysics, Latin, Philosophy, Art </br>
+  </p>
   </div>
   
-  <div>
-  # "Make yourself comfortable, Hacker. Stay a while."
-</div>
+
+ # "Make yourself comfortable, Hacker. Stay a while."
 
 
 <blockquote>"Neo-China arrives from the future."</blockquote>
 <blockquote>“True definition of science: the study of the beauty of the world.”</blockquote>
-# "Make yourself comfortable, Hacker. Stay a while."
-
-          
-      <div>
-        When You Hear, Say, and Read Anything, Say Nothing and Write It Down.
-      </div>
 
 
 <!--
