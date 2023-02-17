@@ -6,13 +6,15 @@
   <main>
     <article>
       <div class="post-info">
-      <div class="title">
-      <li>☯ Defesa Cibernética </li>
+<textarea id="story" name="story"
+          rows="5" cols="33">
+<p>☯ Defesa Cibernética <br> ☯</pr>
+</textarea>
       </div>
         
           
-      <div class = "subtitle">
-        <h2 class="subtitle-text">When You Hear, Say, and Read Anything, Say Nothing and Write It Down.</h2>
+      <div>
+        <h2>When You Hear, Say, and Read Anything, Say Nothing and Write It Down.</h2>
       </div>
 
 
