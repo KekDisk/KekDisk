@@ -30,10 +30,10 @@
 <br>
 <blockquote>“True definition of science: the study of the beauty of the world.”</blockquote>
 
-<div>
+<div align="center">
 
  # X/1999
 
-<img src="You're_welcome.webp" align=center>
+<img src="You're_welcome.webp">
 
 </div>
