@@ -1,4 +1,4 @@
-# Hello! My name is Kaiky AKA umbra.
+# Hello! My name is Kaiky A.K.A umbra.
 ## Introduction 🖋️
 <blockquote> "I am writing this under an appreciable mental strain, since by tonight I shall be no more." </blockquote>
 
@@ -6,15 +6,28 @@
   <main>
     <article>
       <div class="post-info">
-<textarea id="story" name="story"
-          rows="5" cols="33">
-<p>☯ Defesa Cibernética <br> ☯</pr>
-</textarea>
-      </div>
-        
+        <textarea>
+          <p>
+            ☯ Defesa Cibernética - FIAP <br> 
+            🪷 19y </br>
+            ☸️ C Language, Logic, Linux, AI </br>
+            ☦️ Metaphysics, Latin, Philosophy, Art </br>
+    </p>
+  </textarea>
+  </div>
+  
+  <div>
+  # "Make yourself comfortable, Hacker. Stay a while."
+</div>
+
+
+<blockquote>"Neo-China arrives from the future."</blockquote>
+<blockquote>“True definition of science: the study of the beauty of the world.”</blockquote>
+# "Make yourself comfortable, Hacker. Stay a while."
+
           
       <div>
-        <h2>When You Hear, Say, and Read Anything, Say Nothing and Write It Down.</h2>
+        When You Hear, Say, and Read Anything, Say Nothing and Write It Down.
       </div>
 
 
