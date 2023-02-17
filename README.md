@@ -2,6 +2,18 @@
 ## Introduction 🖋️
 <blockquote> "I am writing this under an appreciable mental strain, since by tonight I shall be no more." </blockquote>
 
+<div class="midcolumn">
+  <main>
+    <article>
+      <div class="post-info">
+      <div class="title">
+      <li>☯ Defesa Cibernética </li>
+      </div>
+        
+          
+      <div class = "subtitle">
+        <h2 class="subtitle-text">When You Hear, Say, and Read Anything, Say Nothing and Write It Down.</h2>
+      </div>
 
 
 <!--
