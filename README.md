@@ -29,3 +29,8 @@
 # Close the world, Open the nExt
 <br>
 <blockquote>“True definition of science: the study of the beauty of the world.”</blockquote>
+
+<br>
+# X/1999
+
+<img src="You're_welcome.webp" align="center">
