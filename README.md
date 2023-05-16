@@ -23,7 +23,7 @@
 
  # "Make yourself comfortable, Hacker. Stay a while."
 <br>
-Other interestests include LISP and Program Structure, Thinkpads and Classical systems, Accelerationism, Linux ricing, games, specially old ones; Anime, K-pop and cute things in general
+Other interestests include LISP and Program Structure, Thinkpads and Classical systems, Accelerationism, Linux ricing, games, specially old ones; Anime, K-pop and cute things in general.
 <blockquote>"Neo-China arrives from the future."</blockquote>
 
 # Close the world, Open the nExt
